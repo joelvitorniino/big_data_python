@@ -29,9 +29,6 @@ O dashboard final foi apresentado à gestão da Lions Seminovos, com avaliação
 ├── Vendas_2024.xlsx              # Base bruta (entrada)
 ├── Vendas_2024_tratado.csv       # Base tratada (saída — para Power BI)
 ├── Vendas_2024_tratado.xlsx      # Base tratada (cópia em Excel)
-└── docs/                         # Documentação complementar
-    ├── Relatorio_Extensao.docx   # Relatório final do projeto
-    └── Auditoria_Qualidade.docx  # Levantamento de qualidade dos dados
 ```
 
 ---
