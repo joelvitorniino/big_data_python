@@ -1,0 +1,11 @@
+# ============================================================
+# REQUIREMENTS — Projeto Big Data Lions Seminovos
+# ============================================================
+# Para instalar: pip install -r requirements.txt
+# ============================================================
+
+# Análise e tratamento de dados
+pandas>=2.0.0
+
+# Leitura e escrita de arquivos Excel (.xlsx)
+openpyxl>=3.1.0
